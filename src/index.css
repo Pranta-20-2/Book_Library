@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-Playfair{
+    font-family: "Playfair Display", serif;
+    
+}
+.font-Work{
+    font-family: "Work Sans", sans-serif;
+}
+.dashed-line {
+    border: 2px dashed rgb(226, 221, 221);
+}
+.solid-line {
+    border: 1px solid rgb(225, 221, 221);
+}
+
+  

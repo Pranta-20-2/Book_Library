@@ -1,0 +1,102 @@
+[
+  {
+      "id": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/6NYNJBK/1.png",
+      "review": "A timeless classic that explores the intricacies of wealth, love, and the American Dream. The story unfolds amidst the opulence and glamour of the Jazz Age, weaving a tale of longing, ambition, and ultimately, disillusionment.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": [
+          "Classic",
+          "Romance",
+          "Tragedy"
+      ],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+  },
+  {
+      "id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/YR1QMvZ/2.png",
+      "review": "A dystopian masterpiece that delves into themes of surveillance, oppression, and psychological manipulation. Orwell's prophetic vision of a totalitarian regime serves as a stark warning against the dangers of unchecked power and the erosion of individual freedom.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": [
+          "Dystopian",
+          "Political",
+          "Social"
+      ],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+  },
+  {
+      "id": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/PcQMmFN/3.png",
+      "review": "A poignant exploration of racial injustice and moral growth in the American South. Through the eyes of young Scout Finch, Lee confronts issues of prejudice, empathy, and the search for justice in a society plagued by inequality.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": [
+          "Classic",
+          "Social"
+      ],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+  },
+  {
+      "id": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/njbXLRZ/4.png",
+      "review": "A controversial yet influential portrayal of teenage angst and alienation. Salinger's protagonist, Holden Caulfield, navigates the complexities of adolescence, isolation, and the search for authenticity in a world he perceives as phony.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": [
+          "Classic",
+          "Identity"
+      ],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+  },
+  {
+      "id": 5,
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "image": "https://i.ibb.co/1bk9SXT/5.png",
+      "review": "A magical journey into a world of wizards, spells, and friendship. Rowling introduces readers to the enchanting realm of Hogwarts School of Witchcraft and Wizardry, where Harry Potter discovers his destiny as the Boy Who Lived.",
+      "totalPages": 309,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": [
+          "Magic",
+          "Adventure",
+          "Friendship"
+      ],
+      "publisher": "Bloomsbury",
+      "yearOfPublishing": 1997
+  },
+  {
+      "id": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/PcQMmFN/3.png",
+      "review": "An enchanting tale of adventure and heroism set in Middle-earth. Bilbo Baggins, a reluctant hero, embarks on a quest to reclaim the Lonely Mountain and its treasure from the fearsome dragon, Smaug. Along the way, he encounters elves, dwarves, and the enigmatic Gollum, ultimately discovering courage and purpose within himself.",
+      "totalPages": 310,
+      "rating": 4.6,
+      "category": "Fantasy",
+      "tags": [
+          "Adventure",
+          "Quest",
+          "Epic"
+      ],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+  }
+]
